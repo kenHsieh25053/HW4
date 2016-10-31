@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-.nav>li {
+.nave>li {
     display: inline-block;
     position: relative;
     border: 1px solid #ddd;
@@ -13,7 +13,7 @@
     cursor: pointer;
 }
 
-.nav>li:last-child {
+.nave>li:last-child {
     border-right: 1px solid #ddd;
 }
 
@@ -30,7 +30,7 @@
     display: none;
 }
 
-.nav>li:hover .submenu {
+.nave>li:hover .submenu {
     display: block;
 }
 
